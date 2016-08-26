@@ -19,7 +19,6 @@ class Auto {
     }
     
     func cambioDeVelocidad( ) -> ( actual : Int, velocidadEnCadena: String) {
-        //let velocidadActual = velocidad
         let tuplaResultado: (Int, String)
         
         switch velocidad {
